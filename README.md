@@ -132,4 +132,3 @@ New users receive an auto-generated account number.
 ---
 
 AUTHOR : ADITYA RAJ
-          VIT
